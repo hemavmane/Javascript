@@ -6,7 +6,9 @@
 
 
 //////////////////////
-// without parenthesis and return 
+// arrow funciton without parenthesis and return 
 let data = greet => greet
 
 console.log(data("hi"))
+
+
